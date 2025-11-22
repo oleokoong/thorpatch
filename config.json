@@ -3,6 +3,6 @@
 		"allowPatching" : true,
 		"policyMessage" : "",
 		"patchList" : "patchList.txt",
-		"fileRoot" : "https://github.com/oleokoong/thorpatch/data/"
+		"fileRoot" : "https://oleokoong.github.io/thorpatch/data/"
 	}
 }
